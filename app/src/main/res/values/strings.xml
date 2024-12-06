@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Bookshelf</string>
+
+    <!-- Generic Strings -->
+    <string name="book_title">Title:</string>
+    <string name="loading_books">Loading books...</string>
+    <string name="error_message">An error occurred while fetching data. Please try again.</string>
+    <string name="no_books_found">No books found.</string>
+
+    <!-- API-related -->
+    <string name="google_books_api_base_url">https://www.googleapis.com/books/v1/</string>
+
+    <!-- Accessibility -->
+    <string name="content_description_thumbnail">Thumbnail image of the book</string>
+</resources>
